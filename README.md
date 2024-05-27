@@ -1,2 +1,2 @@
-# inteligencia-artificial-
+# inteligencia-artificial
 matematica2
